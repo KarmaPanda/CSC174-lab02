@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <title>Lab 2 - Car</title>
         <link rel="stylesheet" type="text/css" href="css/car.css">
+        <link rel="stylesheet" type="text/css" href="css/nav.css">
     </head>
     <body>
         <header>
@@ -13,13 +14,7 @@
             </div>
         </header>
 
-        <nav>
-            <ul>
-                <li><a href="car.php">Car</a></li>
-                <li><a href="#">Placeholder</a></li>
-                <li><a href="#">Placeholder</a></li>
-            </ul>
-        </nav>
+        <?php include "nav.php" ?>
 
         <article>
             <h2>About</h2>
