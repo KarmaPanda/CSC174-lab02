@@ -12,7 +12,7 @@
 		<h1> Vincent Van Gogh </h1> 
 		<div> Impressionist Artist during the Late 1800’s</div>
 	</header>
-	<?php include "nav.php"; ?>
+	<?php include "inc/nav.php"; ?>
 	<article>
 		<h2> About Van Gogh </h2>
 			<figure>

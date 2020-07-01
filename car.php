@@ -14,7 +14,7 @@
             </div>
         </header>
 
-        <?php include "nav.php"; ?>
+        <?php include "inc/nav.php"; ?>
 
         <article>
             <h2>About</h2>

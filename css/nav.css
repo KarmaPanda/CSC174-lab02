@@ -1,16 +1,19 @@
+
 nav ul {
 	list-style-type: none;
 	display: flex;
+	margin: 50px 0 50px 0;
 }
 ul a {
 	text-decoration: none;
 	padding: 20px;
 	background-color: #AD235D;
 	color: #DFEFF0;
+
 }
 ul a:hover {
 	color: #AD235D;
-	background-color: #DFEFF0;
+	background-color: #8EC2E8;
 }
 ul a.is-current {
 	color: #AD235E;
