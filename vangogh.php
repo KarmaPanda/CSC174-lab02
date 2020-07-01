@@ -6,11 +6,12 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+	
 	<header>
 		<h1> Vincent Van Gogh </h1> 
 		<div> Impressionist Artist during the Late 1800’s</div>
 	</header>
-
+	<?php include "nav.php"; ?>
 	<article>
 		<h2> About Van Gogh </h2>
 			<figure>
