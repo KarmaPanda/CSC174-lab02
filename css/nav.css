@@ -1,11 +1,17 @@
-nav {
-
-}
-
 nav ul {
-
+	list-style-type: none;
+	display: flex;
 }
-
-ul li {
-
+ul a {
+	text-decoration: none;
+	padding: 20px;
+	background-color: #AD235D;
+	color: #DFEFF0;
+}
+ul a:hover {
+	color: #AD235D;
+	background-color: #DFEFF0;
+}
+ul a.is-current {
+	color: #AD235E;
 }
