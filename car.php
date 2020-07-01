@@ -2,8 +2,8 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Lab 05 – Car</title>
-        <link rel="stylesheet" type="text/css" href="css/styles.css">
+        <title>Lab 2 - Car</title>
+        <link rel="stylesheet" type="text/css" href="css/car.css">
     </head>
     <body>
         <header>
@@ -13,10 +13,18 @@
             </div>
         </header>
 
+        <nav>
+            <ul>
+                <li><a href="car.php">Car</a></li>
+                <li><a href="#">Placeholder</a></li>
+                <li><a href="#">Placeholder</a></li>
+            </ul>
+        </nav>
+
         <article>
             <h2>About</h2>
             <figure>
-                <img src="oldbenz.jpg">
+                <img src="images/oldbenz.jpg">
                 <figcaption>The original Benz Patent-Motorwagen, was first built in 1885 and awarded the patent for the concept.</figcaption>
             </figure>
             <p>A car is a wheeled motor vehicle used for transportation. Most definitions of cars say that they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.</p>
@@ -27,7 +35,7 @@
 
             <h2>History</h2>
             <figure>
-                <img src="karlbenz.jpg">
+                <img src="images/karlbenz.jpg">
                 <figcaption>Karl Benz, the inventor of the modern car.</figcaption>
             </figure>
             <p>In 1879, Benz was granted a patent for his first engine, which had been designed in 1878. Many of his other inventions made the use of the internal combustion engine feasible for powering a vehicle. His first Motorwagen was built in 1885 in Mannheim, Germany. He was awarded the patent for its invention as of his application on 29 January 1886 (under the auspices of his major company, Benz & Cie., which was founded in 1883). Benz began promotion of the vehicle on 3 July 1886, and about 25 Benz vehicles were sold between 1888 and 1893, when his first four-wheeler was introduced along with a cheaper model. They also were powered with four-stroke engines of his own design. Emile Roger of France, already producing Benz engines under license, now added the Benz car to his line of products. Because France was more open to the early cars, initially more were built and sold in France through Roger than Benz sold in Germany. In August 1888 Bertha Benz, the wife of Karl Benz, undertook the first road trip by car, to prove the road-worthiness of her husband's invention.</p>
