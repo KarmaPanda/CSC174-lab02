@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Lab 2 - Car</title>
+        <title>Car</title>
         <link rel="stylesheet" type="text/css" href="css/car.css">
         <link rel="stylesheet" type="text/css" href="css/nav.css">
     </head>
@@ -180,5 +180,6 @@
                 <li><a href="https://en.wikipedia.org/wiki/Automotive_industry_in_the_United_Kingdom">Wikipedia Automotive industry in the United Kingdom</a></li>
             </ul>
         </footer>
+        <?php include "inc/scripts.php"; ?>
     </body>
 </html>

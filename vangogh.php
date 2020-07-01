@@ -93,6 +93,7 @@
 		<h2> Sources </h2> 
 			<p> From Wikipedia: <a href="https://en.wikipedia.org/wiki/Vincent_van_Gogh" target="_blank"> Vincent van Gogh </a>,  This webpage, by Jack M. </p>
 	</footer>
+	<?php include "inc/scripts.php"; ?>
 
 	</body>
 </html>
