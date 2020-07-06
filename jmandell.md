@@ -49,7 +49,7 @@ Van Gogh's stylistic developments are usually linked to the periods he spent liv
 ## Citations
 - Lubin, Albert J. (1972) [Stranger on the Earth A Psychological Biography of Vincent van Gogh Holt](https://archive.org/details/strangeronearth00lubi)
 - Van Gogh, Vincent (2009). Leo Jansen; Hans Luijten; Nienke Bakker (eds.). [Letters written by Vincent van Gogh](http://www.vangoghletters.org/)
-- Hemphill, R. E. (1961). [The Illness of Vincent van Gogh](https://pubmed.ncbi.nlm.nih.gov/11925286/")
+- Hemphill, R. E. (1961). [The Illness of Vincent van Gogh](https://pubmed.ncbi.nlm.nih.gov/11925286/)
 - Cohen, Ben (2003) [A Tale of Two Ears](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539517)
 ## Sources
 From Wikipedia: [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh),   This webpage, by Jack M.
