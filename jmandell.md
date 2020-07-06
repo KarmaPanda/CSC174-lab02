@@ -6,7 +6,7 @@ Impressionist Artist during the Late 1800’s
 Impressionist Artist during the Late 1800’s
 
 ## About Van Gogh
-![Self portrait, 1889]()
+![Self portrait, 1889](images/selfportrait.jpg)
 ## Life in Paris
 
 ## Artistic Development
