@@ -21,7 +21,7 @@ In 1926, General Motors (Australia) Limited was established with assembly plants
 
 ## Exports
        
-![Holden Commodore](http://csc174.org/lab02/london/images/commodore.jpg)
+![Holden Commodore](images/commodore.jpg)
 *The Holden Commodore*
         
 *Holden* began to export vehicles in 1954, sending the FJ to New Zealand. Exports to New Zealand continued, but to broaden their export potential, Holden began to cater their Commodore, Monaro and Statesman/Caprice models for both right- and left-hand drive markets. The Middle East was Holden's largest export market, with the Commodore sold as the Chevrolet Lumina from 1998, and the Statesman from 1999 as the Chevrolet Caprice. Commodores were also sold as the Chevrolet Lumina in Brunei, Fiji and South Africa, and as the Chevrolet Omega in Brazil. Pontiac in North America also imported Commodore sedans from 2008 through to 2009 as the G8. The G8's cessation was a consequence of GM's Chapter 11 bankruptcy resulting in the demise of the Pontiac brand.
