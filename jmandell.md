@@ -20,12 +20,15 @@ While in Asnières Van Gogh painted parks, restaurants and the Seine, including 
 
 ## Artistic Development
 ![The Starry Night, 1889](images/starrynight.jpg "The Starry Night, 1889")
+
 The time in Arles became one of Van Gogh's more prolific periods: he completed 200 paintings, and more than 100 drawings and watercolors. He was enchanted by the local countryside and light; his works from this period are rich in yellow, ultramarine and mauve. His paintings include harvests, wheat fields and general rural landmarks from the area, including The Old Mill (1888), a picturesque structure bordering the wheat fields. This was one of seven canvases sent to Pont-Aven on 4 October 1888 in an exchange of works with Paul Gauguin, Émile Bernard, Charles Laval and others.
 
 The portrayals of Arles are informed by Van Gogh's Dutch upbringing; the patchworks of fields and avenues appear flat and lacking perspective, but excel in their use of colour. His new-found appreciation is seen in the range and scope of his work. In March 1888 he painted landscapes using a gridded "perspective frame"; three of the works were shown at the annual exhibition of the Société des Artistes Indépendants. In April, he was visited by the American artist Dodge MacKnight, who was living nearby at Fontvieille. On 1 May 1888, for 15 francs per month, he signed a lease for the eastern wing of the Yellow House at 2 place Lamartine. The rooms were unfurnished and had been uninhabited for months. 
 
 Van Gogh stayed within what he called the "guise of reality", and was critical of overly stylised works. He wrote afterwards that the abstraction of Starry Night had gone too far and that reality had "receded too far in the background". Hughes describes it as a moment of extreme visionary ecstasy: the stars are in a great whirl, reminiscent of Hokusai's Great Wave, the movement in the heaven above is reflected by the movement of the cypress on the earth below, and the painter's vision is "translated into a thick, emphatic plasma of paint".
+
 ## Artistic Style and Works
+Van Gogh's stylistic developments are usually linked to the periods he spent living in different places across Europe. He was inclined to immerse himself in local cultures and lighting conditions, although he maintained a highly individual visual outlook throughout. His evolution as an artist was slow, and he was aware of his painterly limitations. The following are lists of some of his famous works. 
 
 ### Flower Paintings
 - Still Life: Vase with Fourteen Sunflowers (1888) 
@@ -44,5 +47,9 @@ Van Gogh stayed within what he called the "guise of reality", and was critical o
 - Olive Trees with the Alpilles in the Background (1889) 
 - The Red Vineyard (1890) 
 ## Citations
-
+- Lubin, Albert J. (1972) [Stranger on the Earth A Psychological Biography of Vincent van Gogh Holt](https://archive.org/details/strangeronearth00lubi)
+- Van Gogh, Vincent (2009). Leo Jansen; Hans Luijten; Nienke Bakker (eds.). [Letters written by Vincent van Gogh](http://www.vangoghletters.org/)
+- Hemphill, R. E. (1961). [The Illness of Vincent van Gogh](https://pubmed.ncbi.nlm.nih.gov/11925286/")
+- Cohen, Ben (2003) [A Tale of Two Ears](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539517)
 ## Sources
+From Wikipedia: [Vincent van Gogh](https://en.wikipedia.org/wiki/Vincent_van_Gogh),   This webpage, by Jack M.
