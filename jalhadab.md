@@ -2,7 +2,7 @@
 The aussie car company
 
 ## About Holden
-![Holden Logo](http://csc174.org/lab02/london/images/holden.jpg)
+![Holden Logo](images/holden.jpg)
 *The Holden logo*
 
 **Holden**, formerly known as General Motors-Holden, is an Australian automobile brand and former automobile manufacturer, which imports manufactured cars under the Holden brand. It is headquartered in Port Melbourne, Victoria. The company was founded in 1856 as a saddlery manufacturer in South Australia. In 1908, it moved into the automotive field, becoming a subsidiary of the United States-based General Motors (GM) in 1931, when the company was renamed General Motors-Holden's Ltd. It was renamed Holden Ltd in 1998, and General Motors-Holden in 2005.
